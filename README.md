@@ -15,12 +15,25 @@ More screenshots (and the wallpaper) are available [here](img/)
 
 Usage
 =====
+WARNING: Following these instructions may overwrite or delete your existing configuration files. 
+You assume full responsibility for any data loss, system damage, or other issues. 
+Always back up important files before proceeding.
 
 To use my dotfiles, do the following:
-- **BACK UP YOUR EXISTING ~/.config FOLDER!!!**
-- Delete everything form ~/.config
-- Clone the repo into ~/.config
-- Install the following programs:
+- Back up your existing ~/.config folder, for example using 
+```bash
+mv ~/.config ~/.config.bak
+```
+- Prepare the empty .config folder using 
+```bash
+mkdir ~/.config
+```
+- Clone this repository into ~/.config<br>
+```bash
+git clone https://github.com/LarsLerchbacher/dotfiles-laptop ~/.config
+```
+- Copy over all required configurations, that do not conflict with the ones from this repo, from ~/.config.bak into ~/.config
+- Install the required programs:
     - Niri
     - Alacritty
     - Waybar
