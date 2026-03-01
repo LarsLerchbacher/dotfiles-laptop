@@ -39,7 +39,7 @@ button:hover {
     padding: 10px 10px;
     font-size: 14pt;
     background-color: transparent;
-    color: #D195A6;
+    color: #855B72;
 }
 
 #workspaces button:hover {
@@ -48,7 +48,7 @@ button:hover {
 }
 
 #workspaces button.focused {
-    color: #855B72;
+    color: #D195A6;
 }
 
 #workspaces button.urgent {
