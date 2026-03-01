@@ -83,6 +83,9 @@ spawn-at-startup "nextcloud" "--background"
 // Setting the colors
 spawn-at-startup "wal" "-i" "/home/lars/Pictures/Timmersdorf-Sky.jpg"
 
+// Notifications
+spawn-at-startup "mako"
+
 
 // Disable the hotkey info popup
 hotkey-overlay {

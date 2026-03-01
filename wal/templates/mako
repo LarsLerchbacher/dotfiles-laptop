@@ -1,0 +1,8 @@
+# Colors
+background-color={background}f2
+text-color={cursor}
+border-color={color6}f2
+progress-color=over {color1}
+
+[urgency=high]
+border-color={color2}f2
