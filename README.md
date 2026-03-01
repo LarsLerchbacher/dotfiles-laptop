@@ -11,6 +11,8 @@ The contents of this repository are licensed under the MIT license. For details 
 
 ![Showcase of the rice](img/Terminal.png)
 
+More screenshots (and the wallpaper) are available [here](img/)
+
 
 About this machine
 ==================
