@@ -1,0 +1,30 @@
+[general]
+import = [ "/home/lars/.cache/wal/colors-alacritty.toml" ]
+
+[window]
+opacity = 0.9
+
+#
+#[colors.primary]
+#foreground="#D6D6D6"
+#background="#191114"
+#
+#[colors.normal]
+#black="#191114"
+#red="#4f121e"
+#green="#538D44"
+#yellow="#AC9A53"
+#blue="#3f4a76"
+#magenta="#b76a7a"
+#cyan="#6AB7A8"
+#white="#D6D6D6"
+#
+#[colors.bright]
+#black="#525151"
+#red="#851E33"
+#green="#79B76A"
+#yellow="#CABF91"
+#blue="#5969A6" 
+#magenta="#CA919C"
+#cyan="#B0D9D1"
+#white="#F2F2F2"

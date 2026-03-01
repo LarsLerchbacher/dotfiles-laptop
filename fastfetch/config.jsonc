@@ -1,0 +1,74 @@
+{
+	"display": {
+		"separator": " ❯ ",
+	},
+
+	"modules": [
+		{
+			"type": "custom",
+			"format": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓",
+		},
+		{
+			"type": "custom",
+			"format": "┃           Operating System           ┃",
+		},
+		{
+			"type": "custom",
+			"format": "┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+		},
+		{
+			"type": "os",
+		},
+		{
+			"type": "kernel",
+		},
+		{
+			"type": "WM",
+		},
+		{
+			"type": "terminal",
+		},
+		{
+			"type": "shell",
+		},
+		{
+			"type": "editor",
+		},
+
+		"break",
+
+		{
+			"type": "custom",
+			"format": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓"
+		},
+		{
+			"type": "custom",
+			"format": "┃               Computer               ┃"
+		},
+		{
+			"type": "custom",
+			"format": "┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛"
+		},	
+		{
+			"type": "host",
+		},
+		{
+			"type": "cpu",
+		},
+		{
+			"type": "memory",
+		},
+		{
+			"type": "disk",
+		},
+		{
+			"type": "gpu",
+		},
+
+		"break",
+
+		{
+			"type": "colors",
+		},
+	]
+}

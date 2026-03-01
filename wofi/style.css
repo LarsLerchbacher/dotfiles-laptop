@@ -1,0 +1,30 @@
+#window {
+	background-color: transparent;
+	color: #D195A6;
+}
+
+#outer-box {
+	border-radius: 1.5rem;
+	border: 3px solid #855B72;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-bottom: 0.5rem;
+	background-color: rgba(13, 13, 32, 0.6);
+}
+
+#input {
+	background-color: rgba(13, 13, 32, 0);
+	color: #b76a7a;
+	border: none;
+	border-radius: 1.5rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	padding-top: 0.5rem;
+	margin-bottom: 0.25rem;
+}
+
+#entry:selected {
+	background-color: rgba(171, 146, 171, 0.2);
+	border-radius: 1.5rem;
+	padding: 0.5rem;
+}

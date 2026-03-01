@@ -1,0 +1,28 @@
+[Added Associations]
+application/json=/home/lars/.local/share/applications/nvim-2.desktop;/home/lars/.local/share/applications/nvim-6.desktop;/home/lars/.local/share/applications/nvim-3.desktop;
+application/x-docbook+xml=/home/lars/.local/share/applications/nvim-2.desktop;/home/lars/.local/share/applications/nvim-6.desktop;/home/lars/.local/share/applications/nvim-3.desktop;
+application/x-yaml=/home/lars/.local/share/applications/nvim-2.desktop;/home/lars/.local/share/applications/nvim-6.desktop;/home/lars/.local/share/applications/nvim-3.desktop;
+inode/directory=/home/lars/.local/share/applications/ranger-2.desktop;ranger-2.desktop;/home/lars/.local/share/applications/ranger-5.desktop;ranger-5.desktop;/home/lars/.local/share/applications/ranger-4.desktop;ranger-4.desktop;/home/lars/.local/share/applications/ranger-3.desktop;ranger-3.desktop;
+text/markdown=/home/lars/.local/share/applications/nvim-2.desktop;/home/lars/.local/share/applications/nvim-6.desktop;/home/lars/.local/share/applications/nvim-3.desktop;
+text/plain=/home/lars/.local/share/applications/nvim.desktop;
+text/x-cmake=/home/lars/.local/share/applications/nvim-2.desktop;/home/lars/.local/share/applications/nvim-6.desktop;/home/lars/.local/share/applications/nvim-3.desktop;
+x-scheme-handler/eclipse+installer=_home_lars_Downloads_eclipse-installer_.desktop
+x-scheme-handler/http=/home/lars/.local/share/applications/firefox-bin-5.desktop;firefox-bin-5.desktop;/home/lars/.local/share/applications/firefox-bin-4.desktop;firefox-bin-4.desktop;firefox-bin-3.desktop;firefox-bin-2.desktop;
+x-scheme-handler/https=/home/lars/.local/share/applications/firefox-bin-2.desktop;
+
+[Default Applications]
+application/json=/home/lars/.local/share/applications/nvim-2.desktop;
+application/x-docbook+xml=/home/lars/.local/share/applications/nvim-2.desktop;
+application/x-yaml=/home/lars/.local/share/applications/nvim-2.desktop;
+inode/directory=/home/lars/.local/share/applications/ranger-2.desktop;
+text/markdown=/home/lars/.local/share/applications/nvim-2.desktop;
+text/plain=/home/lars/.local/share/applications/nvim-2.desktop;
+text/x-cmake=/home/lars/.local/share/applications/nvim-2.desktop;
+x-scheme-handler/eclipse+installer=_home_lars_Downloads_eclipse-installer_.desktop
+x-scheme-handler/http=/home/lars/.local/share/applications/firefox-bin-5.desktop;
+x-scheme-handler/https=/home/lars/.local/share/applications/firefox-bin-2.desktop;
+x-scheme-handler/sgnl=signal.desktop
+x-scheme-handler/signalcaptcha=signal.desktop
+
+[Removed Associations]
+application/x-desktop=libreoffice24.8-writer.desktop;nvim.desktop;Alacritty.desktop;
