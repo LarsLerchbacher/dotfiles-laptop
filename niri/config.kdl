@@ -69,7 +69,7 @@ prefer-no-csd
 //
 
 // Background
-spawn-at-startup "swaybg" "-i" "/home/lars/Pictures/Timmersdorf-Sky.jpg"
+spawn-at-startup "swaybg" "-i" "~/.config/img/Wallpaper.jpg"
 
 // Bar
 spawn-at-startup "waybar"
@@ -81,7 +81,7 @@ spawn-at-startup "kwalletd6"
 spawn-at-startup "nextcloud" "--background"
 
 // Setting the colors
-spawn-at-startup "wal" "-i" "/home/lars/Pictures/Timmersdorf-Sky.jpg"
+spawn-at-startup "wal" "-i" "~/.config/img/Wallpaper.jpg"
 
 // Notifications
 spawn-at-startup "mako"
@@ -169,7 +169,7 @@ binds {
 
     Mod+D hotkey-overlay-title="Open the application menu (wofi)" { spawn "wofi" "--show" "drun"; }
 
-    Super+L hotkey-overlay-title="Lock the Screen" { spawn-sh "swaylock --image ~/Pictures/Timmersdorf-Sky.jpg --indicator-idle-visible --inside-color 0d0d2080 --inside-caps-lock-color AB92AB80 --inside-wrong-color 855B7280 --inside-clear-color D195A6 --ring-color 5d5d7180 --ring-wrong-color 5d5d7180 --ring-clear-color 5d5d7180 --key-hl-color AB92AB --line-color 00000000 --line-clear-color 00000000 --line-caps-lock-color 00000000 --separator 00000000 --line-wrong-color 00000000 --line-ver-color 00000000 --ring-ver-color AB8BA1 --inside-ver-color 0d0d2080 --text-color D195A6 --text-caps-lock-color D195A6 --text-clear-color ffffff --text-ver-color D195A6 --text-wrong-color ffffff & loginctl suspend"; }
+    Super+L hotkey-overlay-title="Lock the Screen" { spawn-sh "swaylock --image ~/.config/img/Wallpaper.jpg --indicator-idle-visible --inside-color 0d0d2080 --inside-caps-lock-color AB92AB80 --inside-wrong-color 855B7280 --inside-clear-color D195A6 --ring-color 5d5d7180 --ring-wrong-color 5d5d7180 --ring-clear-color 5d5d7180 --key-hl-color AB92AB --line-color 00000000 --line-clear-color 00000000 --line-caps-lock-color 00000000 --separator 00000000 --line-wrong-color 00000000 --line-ver-color 00000000 --ring-ver-color AB8BA1 --inside-ver-color 0d0d2080 --text-color D195A6 --text-caps-lock-color D195A6 --text-clear-color ffffff --text-ver-color D195A6 --text-wrong-color ffffff & loginctl suspend"; }
 
     Mod+B hotkey-overlay-title="Open Firefox" { spawn "firefox-bin"; }
 
