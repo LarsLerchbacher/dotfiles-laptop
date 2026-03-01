@@ -9,6 +9,8 @@ Laptop Dotfiles
 These are my Laptops dotfiles<br>
 The contents of this repository are licensed under the MIT license. For details see the LICENSE file.<br>
 
+![Showcase of the rice](img/Terminal.png)
+
 
 About this machine
 ==================
