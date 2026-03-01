@@ -17,7 +17,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][41][Wallpaper][org.kde.image][General]
-Image=file:///home/lars/Downloads/KDE-Plasma-Dark-1034-HD.jpg
+Image=file:///home/lars/Pictures/Timmersdorf-Sky.jpg
 SlidePaths=/home/lars/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][42]

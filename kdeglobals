@@ -91,8 +91,7 @@ ForegroundPositive=128,255,128
 ForegroundVisited=255,102,102
 
 [General]
-ColorScheme=Kvantum
-ColorSchemeHash=2c3f86428c11011a7c64ee1e7f47c274d498ff10
+ColorSchemeHash=d6c2df0966578859e7aa68d5591d7e3f0cfa19bc
 TerminalApplication=/bin/alacritty
 TerminalService=/home/lars/.local/share/applications/alacritty.desktop
 

@@ -69,7 +69,7 @@ prefer-no-csd
 //
 
 // Background
-spawn-at-startup "swaybg" "-i" "~/.config/img/Wallpaper.jpg"
+spawn-at-startup "swaybg" "-i" "home/lars/.config/img/Wallpaper.jpg"
 
 // Bar
 spawn-at-startup "waybar"
@@ -81,7 +81,7 @@ spawn-at-startup "kwalletd6"
 spawn-at-startup "nextcloud" "--background"
 
 // Setting the colors
-spawn-at-startup "wal" "-i" "~/.config/img/Wallpaper.jpg"
+spawn-at-startup "wal" "-i" "/home/lars/.config/img/Wallpaper.jpg"
 
 // Notifications
 spawn-at-startup "mako"
