@@ -13,6 +13,24 @@ The contents of this repository are licensed under the MIT license. For details 
 
 More screenshots (and the wallpaper) are available [here](img/)
 
+Usage
+=====
+
+To use my dotfiles, do the following:
+- **BACK UP YOUR EXISTING ~/.config FOLDER!!!**
+- Delete everything form ~/.config
+- Clone the repo into ~/.config
+- Install the following programs:
+    - Niri
+    - Alacritty
+    - Waybar
+    - PyWal16
+    - fastfetch
+    - fish
+- Reboot
+
+And you're good to go!
+
 
 About this machine
 ==================
