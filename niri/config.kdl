@@ -110,7 +110,12 @@ window-rule {
 
 window-rule {
 	match title="Eclipse"
-	open-floating true
+	open-floating true 
+}
+
+window-rule {
+	match title="eclipse-workspace.*"
+	open-floating false
 }
 
 // Open nextcloud floating
