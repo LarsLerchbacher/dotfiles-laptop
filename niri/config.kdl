@@ -118,6 +118,11 @@ window-rule {
 	open-floating false
 }
 
+window-rule {
+	match app-id="firefox"
+	open-maximized true
+}
+
 // Open nextcloud floating
 window-rule {
 	match title="Nextcloud"
