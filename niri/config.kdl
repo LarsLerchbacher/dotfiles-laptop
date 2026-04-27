@@ -135,6 +135,12 @@ window-rule {
 	open-floating true
 }
 
+// my own program
+window-rule {
+	match title="Schultagfortschritt"
+	open-floating true
+}
+
 
 // Add rounded corners
 window-rule {
