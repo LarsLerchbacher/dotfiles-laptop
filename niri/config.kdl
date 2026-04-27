@@ -7,6 +7,7 @@ input {
     keyboard {
         xkb {
 	    layout "us, de"
+	    options "grp:win_space_toggle"
         }
     }
 
@@ -126,6 +127,11 @@ window-rule {
 // Open nextcloud floating
 window-rule {
 	match title="Nextcloud"
+	open-floating true
+}
+
+window-rule {
+	match app-id="org.godotengine.ProjectManager"
 	open-floating true
 }
 
