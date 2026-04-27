@@ -1,0 +1,13 @@
+# GIMP colorrc
+# 
+# This file holds a list of recently used colors.
+
+(color-history
+    (color "R'G'B'A double" 32 "\0\0\0\200\57\36\256\77\0\0\0\240\40\34\314\77\0\0\0\200\57\36\256\77\0\0\0\0\0\0\360\77" 0)
+    (color "R'G'B'A u8" 4 "\233\274\17\377" 0)
+    (color "R'G'B'A u8" 4 "\312\315\237\377" 0)
+    (color "R'G'B'A u8" 4 "\213\254\17\377" 0)
+    (color "R'G'B'A u8" 4 "\60b\60\377" 0)
+    (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+
+# end of colorrc
