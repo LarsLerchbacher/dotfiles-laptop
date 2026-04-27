@@ -5,6 +5,8 @@ if status is-interactive
     source ~/.config/fish/aliases.fish
     set EDITOR "/usr/bin/nvim"
 
+    export GPG_TTY=$(tty)
+
     echo ""
     fastfetch
 end
