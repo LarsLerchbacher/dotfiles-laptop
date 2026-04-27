@@ -40,7 +40,6 @@ git clone https://github.com/LarsLerchbacher/dotfiles-laptop ~/.config
     - PyWal16
     - fastfetch
     - fish
-    - SDDM
     - Cattpuccin Mocha Pink GTK Theme: download from [here](https://store.kde.org/p/1996672) and put the folder of the version you want into /usr/share/themes
 - Reboot
 
