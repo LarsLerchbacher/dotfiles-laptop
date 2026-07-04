@@ -11,3 +11,5 @@ if status is-interactive
     fastfetch
 end
 
+
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv fish)"
